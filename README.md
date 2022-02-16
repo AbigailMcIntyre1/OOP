@@ -3,3 +3,5 @@
 Calculator:
 
 Work Order:
+
+Stars:
